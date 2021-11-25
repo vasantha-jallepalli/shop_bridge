@@ -62,5 +62,5 @@ run command to run server `python manage.py runserver`
           "availability_status": True
       }
       ```
-- Delete item(update `item_id` in base url)`shop_bridge_core/item/1/delete/v1`
+- Delete item(update `item_id` in base url)`shop_bridge_core/item/{item_id}/delete/v1`
     - `DELETE` method
